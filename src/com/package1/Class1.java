@@ -6,7 +6,7 @@ public class Class1 {
 		String message ="Hello All - Welcome to 2023";
 		System.out.println("Wish you a happy new year");
 		System.out.println(message);
-		System.out.println("Thank you");
+		System.out.println("Adida nayyandiya");
 		return message;
 		
 	}
